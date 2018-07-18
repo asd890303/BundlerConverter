@@ -1,0 +1,1 @@
+Convert *.bundle to bundleconfig.json.
